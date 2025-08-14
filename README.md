@@ -305,9 +305,9 @@ The project uses TypeScript with strict mode enabled and follows modern JavaScri
 
 ## 📞 Contact
 
-**Developer**: Tru3Bliss
+**Developer**: Mist
 
-- **Telegram**: [@solship](https://t.me/mooneagle)
+- **Discord**: [@Mist](https://discord.gg/1381697505649102991)
 
 ## 📄 License
 
